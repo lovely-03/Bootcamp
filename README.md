@@ -20,3 +20,25 @@ DSA problems
 18. find matrix diagonal difference
 19. rotate matrix by 180 degree
 20. sort 0's, 1's and 2's without using sorting
+21. Print fullname(first and last name) and id without space 
+  Ex - name: Lily Nicolette Evans
+  Id: A1233
+  Output: lily_evansA1233
+22. Check palindrome string
+23. Remove all vowels from a string
+24. Replace all occurences of a specified pattern with a specified character in a given string.
+  Ex- word: ABCABCXABCabc
+  Pattern: ABC
+  Character: #
+  Output: ##X#abc
+25. Remove duplicate characaters in string
+26. Find First non-repeating character in string
+27. check if 2 strings are anagram or not
+28. longest common prefix in multiple strings
+29. longest common subsequence
+30. string compression
+31. longest substring without repeating characters
+32. Minimum window substring
+33. Valid Parenthesis using string
+34. longest palindrome substring
+35. Group anagrams together
